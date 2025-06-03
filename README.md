@@ -51,7 +51,8 @@ Visit http://127.0.0.1:5000 in your browser to start shopping!
 ├── models.py
 ├── database.db
 └── README.md
-📌 Author
+
+ Author
 Obakeng Hlahle
 📧 obakenghlahle4a@gmail.com
 🔗 GitHub
