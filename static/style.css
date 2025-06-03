@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.product, .item {
+  background-color: #fff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.product h2, .item h3 {
+  margin-top: 0;
+}
+
+.actions a, a.button {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: white;
+  background-color: #007bff;
+  padding: 8px 12px;
+  border-radius: 5px;
+}
+
+.total {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  max-width: 400px;
+}
+
+form label, form input {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.navbar {
+  background-color: #007bff;
+  padding: 10px;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.navbar a, .navbar span {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
